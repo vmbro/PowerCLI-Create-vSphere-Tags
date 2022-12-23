@@ -1,6 +1,6 @@
 $path = "c:\vmList.csv" # Path for the csv file to be exported
-$vcenter = "vCenterHostname" # Your vCenter name. vcenter.domain.local
-$user = "username" # Your vCenter username "administrator@vsphere.local" or "domain\username"
+$vcenter = "vCenterFQDN" # Your vCenter name -  vcenter.domain.local
+$user = "username" # Your vCenter username - administrator@vsphere.local or domain\username
 $password = "password" # Your vCenter password
 try {
     Disconnect-VIServer -server * -confirm:$false
