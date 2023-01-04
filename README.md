@@ -21,8 +21,7 @@ You need following software and versions to use scripts.
 
 ## More details about scripts
 
-https://vmbro.com/vsphere-tagleri-ve-veeam-backup/ - Related Article
-
+You can visit my blog for [creating vSphere Tags with PowerCLI](https://creativecommons.org/licenses/by-nc/4.0/) and more detailed information.
 
 ## License
 
